@@ -2,3 +2,5 @@ WARNING: When file is opened windows will read it as a threat, ignore this. Orig
 
 This is a clicker game I whipped up in the Mu-editor after discovering the Tkinter module.
 This is only V1 future versions will be uploaded here.
+
+This is available on both Windows and Mac for all os models as an .app and .exe file.
